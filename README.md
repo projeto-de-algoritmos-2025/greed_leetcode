@@ -24,3 +24,4 @@ Este projeto visa aplicar o conhecimento adquirido na disciplina projeto de algo
 ### Problema 1
 ![image](https://github.com/user-attachments/assets/918374f0-6e46-4412-b0b5-d8482ef52acd)
 
+![image2](https://github.com/user-attachments/assets/2a8db50e-cf81-4f48-8b90-820be7bd24d0)
