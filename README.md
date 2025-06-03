@@ -17,6 +17,7 @@ Este projeto visa aplicar o conhecimento adquirido na disciplina projeto de algo
 | # | Problema | Solução | Nível |
 | -- | -- | -- | -- |
 | 1 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/?envType=problem-list-v2&envId=greedy) | [Python](wildcard_matching.py) | Difícil |
+| 1 | [Candy](https://leetcode.com/problems/candy/description/) | [Python](candy.py) | Difícil |
 
 ## Status da solução
 
